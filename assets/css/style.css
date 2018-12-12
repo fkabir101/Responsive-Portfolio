@@ -246,4 +246,15 @@ input[type=submit] {
   textarea{
     height:150px;
   }
+
+  /* portfolio */
+  .work{
+    widows: 240px;
+  }
+  .work img, .work h3{
+    width: 80%;
+  }
+  .work h3{
+    bottom:4px;
+  }
 }
