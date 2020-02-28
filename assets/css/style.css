@@ -258,3 +258,16 @@ input[type=submit] {
     bottom:4px;
   }
 }
+.modal.show  {
+  display:flex!important;
+  flex-direction:column;
+  justify-content:center;
+  align-content:center;
+  align-items: flex-start;
+}
+.modal-lg {
+  max-width: 80%;
+}
+a{
+  cursor: pointer
+}
